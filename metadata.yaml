@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '25199'
     url: http://www.gutenberg.org/2009/agents/25199
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22231#Peak-and-PrairieFrom-a-Colorado-Sketch-book
 gutenberg_issued: '2007-08-03'
 gutenberg_type: Text
 identifiers:
